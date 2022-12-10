@@ -9,5 +9,8 @@ I chose Python this year since I really need to advance my pythoning skillz.
 The assignments
 https://adventofcode.com/
 
+luhtaville's github
+https://github.com/LuhtaVille/
+
 luhtaville's gitlab
 https://gitlab.com/luhtaville
